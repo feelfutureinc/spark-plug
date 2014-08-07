@@ -1,2 +1,0 @@
-DataProvider: sqlserver
-DataConnectionString: Data Source=AY140715223428Z\SQLEXPRESS;Initial Catalog=ffnop;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=dobest@ff123
